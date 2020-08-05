@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/christopherorea.github-io/React-pics/static/css/main.84bd63c6.chunk.css",
+    "main.js": "/christopherorea.github-io/React-pics/static/js/main.bdb605ec.chunk.js",
+    "main.js.map": "/christopherorea.github-io/React-pics/static/js/main.bdb605ec.chunk.js.map",
+    "runtime-main.js": "/christopherorea.github-io/React-pics/static/js/runtime-main.92949aad.js",
+    "runtime-main.js.map": "/christopherorea.github-io/React-pics/static/js/runtime-main.92949aad.js.map",
+    "static/js/2.6fa09cdb.chunk.js": "/christopherorea.github-io/React-pics/static/js/2.6fa09cdb.chunk.js",
+    "static/js/2.6fa09cdb.chunk.js.map": "/christopherorea.github-io/React-pics/static/js/2.6fa09cdb.chunk.js.map",
+    "index.html": "/christopherorea.github-io/React-pics/index.html",
+    "precache-manifest.d5459bd0e54240ff3bfa5dd683897b0a.js": "/christopherorea.github-io/React-pics/precache-manifest.d5459bd0e54240ff3bfa5dd683897b0a.js",
+    "service-worker.js": "/christopherorea.github-io/React-pics/service-worker.js",
+    "static/css/main.84bd63c6.chunk.css.map": "/christopherorea.github-io/React-pics/static/css/main.84bd63c6.chunk.css.map",
+    "static/js/2.6fa09cdb.chunk.js.LICENSE.txt": "/christopherorea.github-io/React-pics/static/js/2.6fa09cdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92949aad.js",
+    "static/js/2.6fa09cdb.chunk.js",
+    "static/css/main.84bd63c6.chunk.css",
+    "static/js/main.bdb605ec.chunk.js"
+  ]
+}
